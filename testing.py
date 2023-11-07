@@ -1,0 +1,1 @@
+s1 ='%s last times grade is%5d ,now%5d, imporved%.2f'%('tom',85,90,5/85)
